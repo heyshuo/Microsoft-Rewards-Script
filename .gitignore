@@ -22,3 +22,5 @@ note
 /.zcode/
 /scripts/tests
 /docs
+.idea
+/.workbuddy/
